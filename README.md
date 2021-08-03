@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  <div>
-  <a href="https://rogix.dev">
+  <a href="https://rogix.dev" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogix&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogix&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
