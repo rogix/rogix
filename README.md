@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <div>
+  <a href="https://github.com/rogix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogix&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogix&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</div>
